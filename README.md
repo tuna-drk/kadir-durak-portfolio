@@ -149,9 +149,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## 📞 İletişim
 
-- **E-posta**: email@example.com
-- **Telefon**: +90 555 123 45 67
-- **Konum**: İstanbul, Türkiye
+- **E-posta**: kadirtunahand@gmail.com
+- **Telefon**: +90 553 963 83 15
+- **Konum**: Ankara,Türkiye
 
 ## 🙏 Teşekkürler
 
